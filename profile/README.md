@@ -17,7 +17,7 @@
 ## Installation Instructions  
 
 1. Go to the installation site using the button above.  
-2. Follow the on-screen instructions to install PopClip correctly on your Mac.  
+2. Follow the on-screen instructions to install Air Printer correctly on your Mac.  
 
 ---
 
